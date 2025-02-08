@@ -2,6 +2,17 @@
 
 A chat agent that acts as a teaching assistant to guide students from translating a target English sentence into Russian. The teaching assistant is not there to provide the direct answer, only guidance.
 
+**##The developer will choose from these**
+Meta AI https://www.meta.ai/
+ChatGPT https://openai.com/index/chatgpt/
+Anthropic Claude https://www.anthropic.com/claude
+Mistral AI https://mistral.ai/
+*Ollama + Open WebUI https://openwebui.com/
+*LibreChat https://www.librechat.ai/
+Leon https://github.com/leon-ai/leon
+
+
+
 **##Technical Uncertainties of Sentence Constructor**
 
 The AI-Powered Agent should not be used to replace the real teacher due to the following technical uncertainties and limitations:  
@@ -17,6 +28,7 @@ Grammatical and Stylistic Consistency: Although LLMs can produce grammatically c
 Pragmatic and Cultural Nuances: Sentence construction isn't just about grammar—it's also about appropriateness within the cultural and social context. LLMs can sometimes generate sentences that sound grammatically correct but are socially awkward, insensitive, or inappropriate based on the situation or the cultural norms of the intended audience.
 
 Generating Sentences with Correct Factual Information: LLMs may generate sentences that are syntactically correct but factually incorrect. This is particularly problematic when the model constructs sentences that sound plausible but are based on incorrect data, outdated information, or biases in the training data.
+
 
 **##To Be Determined**
 How well can an AI-Powered Assistant perform a very broad task?
