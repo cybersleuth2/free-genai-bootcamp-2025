@@ -2,14 +2,15 @@
 
 A chat agent that acts as a teaching assistant to guide students from translating a target English sentence into Russian. The teaching assistant is not there to provide the direct answer, only guidance.
 
+
 **##The developer will choose from these**
-Meta AI https://www.meta.ai/
-ChatGPT https://openai.com/index/chatgpt/
-Anthropic Claude https://www.anthropic.com/claude
-Mistral AI https://mistral.ai/
-*Ollama + Open WebUI https://openwebui.com/
-*LibreChat https://www.librechat.ai/
-Leon https://github.com/leon-ai/leon
+-Meta AI https://www.meta.ai/
+-ChatGPT https://openai.com/index/chatgpt/
+-Anthropic Claude https://www.anthropic.com/claude
+-Mistral AI https://mistral.ai/
+-Ollama + Open WebUI https://openwebui.com/
+-LibreChat https://www.librechat.ai/
+-Leon https://github.com/leon-ai/leon
 
 
 
