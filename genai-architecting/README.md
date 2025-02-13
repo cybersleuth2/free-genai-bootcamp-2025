@@ -1,6 +1,7 @@
 **##Functional Requirements**
 
 The company would like to build their own Russian Language Learning Portal LLM to allow flexibility in scaling language tutoring services provided to students, and to allow for implementation and compare/contrast of various LLMs.  Additionally, owning their own LLM infrastructure will allow the company to manage their own security solutions based on the changing needs of the evolving LLM infrastructure and use cases.
+
 The company wants to invest in ______(tech)____ which is budgeted for 10-15K.  They currently have 200 active students located in North America who are learning to speak, read, and write in Russian.
 
 
