@@ -4,7 +4,9 @@ A chat agent that acts as a teaching assistant to guide students from translatin
 
 
 **##The developer will choose from these**
--Meta AI https://www.meta.ai/
+
+- [] Meta AI https://www.meta.ai/  ====>  meta-llama/Meta-Llama-3-70B
+  
 -ChatGPT https://openai.com/index/chatgpt/
 -Anthropic Claude https://www.anthropic.com/claude
 -Mistral AI https://mistral.ai/
