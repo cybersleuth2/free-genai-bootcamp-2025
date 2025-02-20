@@ -4,16 +4,7 @@ A chat agent that acts as a teaching assistant to guide students from translatin
 
 
 **##The developer will choose from these**
-
-- [] Meta AI https://www.meta.ai/  ====>  meta-llama/Meta-Llama-3-70B
-  
--ChatGPT https://openai.com/index/chatgpt/
--Anthropic Claude https://www.anthropic.com/claude
--Mistral AI https://mistral.ai/
--Ollama + Open WebUI https://openwebui.com/
--LibreChat https://www.librechat.ai/
--Leon https://github.com/leon-ai/leon
-
+  - [] google/gemma-2b and meta-llama/Meta-Llama-3-8B
 
 
 **##Technical Uncertainties of Sentence Constructor**
