@@ -4,7 +4,7 @@ A chat agent that acts as a teaching assistant to guide students from translatin
 
 
 **##The developer will choose from these**
-  - [] google/gemma-2b and meta-llama/Meta-Llama-3-8B
+  - google/gemma-2b and meta-llama/Meta-Llama-3-8B
 
 
 **##Technical Uncertainties of Sentence Constructor**
